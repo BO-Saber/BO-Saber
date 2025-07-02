@@ -16,7 +16,7 @@
 ### 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,linux,bash,github,git,vscode,tkinter,selenium,figma" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,bash,github,git,vscode" />
 </p>
 
 ---
@@ -40,8 +40,8 @@
 
 ### 📣 Let's Connect
 
-- 📫 Reach me at: **soumyajitdatta[at]gmail.com**
-- 🌐 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-link)
+- 📫 Reach me at: **isf.alphaecho11@gmail.com**
+- 🌐 LinkedIn: Private
 - 🤝 Collaborations: Always open for real-world cybersecurity collabs, student-led initiatives, or hacking projects!
 
 ---
