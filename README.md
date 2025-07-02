@@ -1,14 +1,14 @@
 # Saber
-<h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
+<h1 align="center">Hi 👋, I'm Saber</h1>
 <h3 align="center">🚀 Director of ISF | 🛡️ Leader of BlackOps | 👨‍💻 Ethical Hacker-in-Progress</h3>
 
 ---
 
 ### 👨‍💼 About Me
 
-- 🎓 Director at [ISF (International Students' Federation)](https://github.com/ISF-Global), a global nonprofit uniting youth through activism, tech, and community building.  
+- 🎓 Director at ISF (International Students' Federation), a global nonprofit uniting youth through activism, tech, and community building.  
 - 🕵️‍♂️ Leading **BlackOps**, a covert ISF wing exposing online corruption, scams, and disinformation.  
-- 🛠️ Currently building **Red & Blue Team Tools**, fake detection systems, and phishing counters using Python + AI.  
+- 🛠️ Currently implementing new hacking tools in real life tasks. 
 - 💡 Finalist in cybersecurity hackathons. Idea pitcher, backend strategist, and threat detection innovator.
 
 ---
