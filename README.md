@@ -49,5 +49,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyajitdatta&show_icons=true&theme=tokyonight" />
   <br />
-  https://github-profile-trophy.vercel.app/?username=BO-Saber-ma&theme=dracula
+  [![trophy](https://github-profile-trophy.vercel.app/?username=BO-Saber)](https://github.com/BO-Saber/github-profile-trophy)
 </p>
